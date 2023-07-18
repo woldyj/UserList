@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//woldyj.github.io/UserList/static/css/main.edbd60ea.css",
+    "main.js": "/https//woldyj.github.io/UserList/static/js/main.9d5bd868.js",
+    "index.html": "/https//woldyj.github.io/UserList/index.html",
+    "main.edbd60ea.css.map": "/https//woldyj.github.io/UserList/static/css/main.edbd60ea.css.map",
+    "main.9d5bd868.js.map": "/https//woldyj.github.io/UserList/static/js/main.9d5bd868.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edbd60ea.css",
+    "static/js/main.9d5bd868.js"
+  ]
+}
